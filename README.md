@@ -1,2 +1,2 @@
 # Connect3
-Tic Tac Toe with without X's and O's
+Tic Tac Toe without X's and O's
